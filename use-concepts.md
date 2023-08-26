@@ -1,0 +1,14 @@
+- Use React Hook Form For Validation
+- Use React Query For API and useMutation CRUD Perform and Catching
+- Use Redux for store and maintain data
+- UseState Hook
+- Toastify, React-Hot-Toast
+- Loader
+- Icon
+- Tailwind 
+- Passwords store with MD5 or More Advance 
+- Error Handling
+- Firebase for store data
+
+---- Vercel For Host this Website (You will use Firebase Only)
+---- CSS Bootstrap framework (You will use Material UI) only 
